@@ -23,9 +23,9 @@ repository               : "lpt295/lpt295.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  avatar           : "profile.jpeg"
+  name             : "Lan Phuc Tran"
+  pronouns         : "he/they"  
   bio              : "PhD Student in Applied Math @ Michigan State University"
   location         : "East Lansing, MI"
   employer         : "Michigan State University"
