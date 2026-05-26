@@ -34,18 +34,18 @@ author:
   email_second     : "lanphuc.tran@alumni.wfu.edu"
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : ""
-  inspire-hep      : # URL
-  impactstory      : # URL
-  orcid            : ""
-  semantic         : # URL
-  ssrn             : # URL
-  pubmed           : ""
-  researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
+  # academia         : # URL
+  # arxiv            : # URL - Update with the correct link to your profile
+  # googlescholar    : ""
+  # inspire-hep      : # URL
+  # impactstory      : # URL
+  # orcid            : ""
+  # semantic         : # URL
+  # ssrn             : # URL
+  # pubmed           : ""
+  # researchgate     : # URL
+  # scopus           : # URL
+  # zotero           : # URL
 
 
   # Repositories and software development
