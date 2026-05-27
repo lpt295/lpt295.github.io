@@ -19,15 +19,15 @@ main:
     
   # - title: "Portfolio"
   #   url: /portfolio/
+
+  - title: "CV"
+    url: /cv/
         
   - title: "Blog"
     url: /year-archive/
 
   - title: "Personal"
     url: /personal/
-    
-  # - title: "CV"
-  #   url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
