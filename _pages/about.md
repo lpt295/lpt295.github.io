@@ -6,8 +6,20 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Hi!
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I am Lan-Phuc, Lân Phúc, or 麟福. Occasionally, I go by LP or Timmy.
+
+I am a PhD student in the [Department of Mathematics](https://math.msu.edu/) at Michigan State University. Before this, I got a Master's degree in Mathematics from Wake Forest University, where I wrote a thesis on Phase Shaping of Nonlinear Schrödinger Equation under the guidance of [John Gemmer](https://users.wfu.edu/gemmerj/). I graduated from Fulbright University Vietnam in 2024 with a BS in Applied Mathematics, advised by Hieu Nguyen and [Son Van](https://www.tsvan.xyz/).
+
+I am interested in the study of nonlinear partial differential equations (PDEs) that describe pattern formation and wave propagation because this research area lies at the intersection of analysis, PDEs, and mathematical modeling. Motivated by a curiosity about the workings of the universe, I want to use analytical and computational tools to build and understand mathematical models of physical phenomena that not only have practical applications but also expose me to new and interesting areas of math. For example, throughout my coursework, I have studied and presented on Maxwell's equations as a model to describe the propagation of light, using chaos to send secret messages, and the mathematical proofs behind why the orbits of two celestial bodies interacting with each other must be an ellipse when the system is bound.
+
+Outside of school, I enjoy hiking, perfecting a Viet dish, hanging out with Bear (he's a sweet and hyperactive labrador retriever), taking photos, exploring hidden gems (mostly hippy-dippy bookstores, thriftshops, and local bars/breweries/coffee shops) in a city, picking my friends' brain about religions, history, arts, or occasionally technology, watching a show with my friends, traveling, thrifting, and reading. I am trying to create a system to keep track of these cool places and books to share it with everyone.
+
+I am also a big fan of NIKI. NIKI is an Indonesian female singer-songwriter based in LA and her record label is 88rising (with other artists like Rich Brian and Joji). One of her most popular songs is [Every Summertime](https://www.youtube.com/watch?v=OXtZfPZIex4&list=RDOXtZfPZIex4&start_radio=1), which she wrote for the Marvel movie Shang-Chi. I went to her concert in my first year of grad school and was lucky enough to stand at the front row (that was awesome). My favorite albums of hers are Nicole (alt pop, folk pop, very confessional and melancholic) and Buzz (also alt pop, folk pop; her vocals were compared to Phoebe Bridgers and Elliot Smith).
+
+
+<!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
@@ -53,4 +65,4 @@ Example: editing a Markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
