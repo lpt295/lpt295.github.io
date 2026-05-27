@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Lan-Phuc Tran"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
