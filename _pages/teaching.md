@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 ## Wake Forest University
-At Wake Forest, I was a Teaching Assistant for courses ranging from Pre-Calculus to Introductory Real Analysis. My responsibilities include having regular meetings with the course instructors to discuss grading, grading and providing feedback on students' homework assignments, and holding weekly study sessions (2-hour meetings where students stop by for help with their assignments or to ask any course-related or math questions in general without any formal registration). Below is the list of courses that I was a TA for:
+At Wake Forest, I was a Teaching Assistant for courses ranging from Pre-Calculus to Introductory Real Analysis. My responsibilities included having regular meetings with the course instructors to discuss grading, grading and providing feedback on students' homework assignments, and holding weekly study sessions (2-hour meetings where students stopped by for help with their assignments or to ask any course-related or math questions in general without any formal registration). Below is the list of courses that I was a TA for:
 - MTH 311/611: *Introductory Real Analysis*. Fall 25.
 - MTH 383/683: *The Real Line*. Summer 25.
 - MTH 111: *Calculus with Analytic Geometry I*. Fall 24.
@@ -21,10 +21,10 @@ Besides working as a TA, I was also proudly an employee at the Math and Stats Ce
 
 I was also lucky enough to be named *Employee of the Month* in April 2026.
 
-If you are interested in finding out the full course catalog of math courses offered at Wake Forest, you can find it [here](https://bulletin.wfu.edu/courses-az/mth/).
+If you are interested, you can find the complete [Wake Forest Math Course Catalog](https://bulletin.wfu.edu/courses-az/mth/) for more detailed course descriptions.
 
 ## Fulbright University Vietnam
-I served as a TA in the following courses:
+At Fulbright, I served as a TA in the following courses:
 - ECON 303: *Economics of Education*.
 - ECON 210: *Giving and Effectiveness*.
 - ECON 101: *Principles of Economics 1*.
