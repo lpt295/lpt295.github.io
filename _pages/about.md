@@ -18,12 +18,6 @@ I am interested in the study of nonlinear partial differential equations (PDEs) 
 
 For example, throughout my coursework, I have studied and presented on Maxwell's equations as a model to describe the propagation of light, using chaos to send secret messages, and the mathematical proofs behind why the orbits of two celestial bodies interacting with each other must be an ellipse when the system is bound.
 
-### Besides Academics
-
-Outside of school, I enjoy hiking, perfecting a Viet dish, hanging out with Bear (he's a sweet and hyperactive labrador retriever), taking photos, exploring hidden gems (mostly hippy-dippy bookstores, thriftshops, and local bars/breweries/coffee shops) in a city, picking my friends' brain about religions, history, arts, or occasionally technology, watching a show with my friends, traveling, thrifting, and reading. I am trying to create a system to keep track of these cool places and books to share it with everyone.
-
-I am also a huge fan of NIKI, an Indonesian female singer-songwriter based in LA signed to 88rising (with other artists like Rich Brian and Joji). One of her most popular songs is [Every Summertime](https://www.youtube.com/watch?v=OXtZfPZIex4&list=RDOXtZfPZIex4&start_radio=1), which she wrote for the Marvel movie Shang-Chi. I went to her concert during my first year of grad school and was lucky enough to land a front-row spot (that was awesome). My favorite albums of hers are Nicole (alt pop, folk pop, very confessional and melancholic) and Buzz (also alt pop, folk pop with her vocals compared to Phoebe Bridgers and Elliot Smith).
-
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
