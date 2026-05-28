@@ -18,9 +18,6 @@
   height: auto;
 
   /* keep the footer on the bottom of the page */
-  position: fixed;
-  bottom: 0;
-
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.45s;
@@ -31,7 +28,7 @@
     @include clearfix;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 1em;
+    margin-top: auto;
     max-width: 100%;
     padding: 0 1em 1em;
 
