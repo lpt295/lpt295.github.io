@@ -21,9 +21,11 @@ I am also a huge fan of NIKI, an Indonesian female singer-songwriter based in LA
 
 ## Hiking
 
-![Hiking](/images/hiking.jpeg)
+![Salem Lake with Chris](/images/hiking.jpeg)
 
 ![Sitting on a big rock](/images/hiking-2.jpeg)
+
+![Pilot Mountain with the Maddux](/images/hiking-3.jpeg)
 
 ## Traveling
 
