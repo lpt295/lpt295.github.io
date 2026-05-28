@@ -12,7 +12,7 @@ I am Lan-Phuc, Lân Phúc, or 麟福. Most baristas know me by the name LP, and 
 
 I am a PhD student in the [Department of Mathematics](https://math.msu.edu/) at Michigan State University. Before this, I got a Master's degree in Mathematics from Wake Forest University, where I wrote a thesis on Phase Shaping of Nonlinear Schrödinger Equation under the guidance of [John Gemmer](https://users.wfu.edu/gemmerj/). I graduated from Fulbright University Vietnam in 2024 with a BS in Applied Mathematics, advised by Hieu Nguyen and [Son Van](https://www.tsvan.xyz/).
 
-### Research Interests
+## Research Interests
 
 I am interested in the study of nonlinear partial differential equations (PDEs) that describe pattern formation and wave propagation, as this research area lies beautifully at the intersection of analysis, PDEs, and mathematical modeling. Motivated by a curiosity about how the universe works, I want to use analytical and computational tools to build and understand mathematical models of physical phenomena. I enjoy work that not only yields practical applications but also exposes me to new and exciting areas of math! 
 
