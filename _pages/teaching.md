@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 ## Wake Forest University
-At Wake Forest, I was a Teaching Assistant for courses ranging from Pre-Calculus to Introductory Real Analysis. My responsibilities included having regular meetings with the course instructors to discuss grading, grading and providing feedback on students' homework assignments, and holding weekly study sessions (2-hour meetings where students stopped by for help with their assignments or to ask any course-related or math questions in general without any formal registration). Below is the list of courses that I was a TA for:
+At Wake Forest, I was a Teaching Assistant for courses from *Precalculus* to *Introductory Real Analysis*. My responsibilities included having regular meetings with the course instructors to discuss grading, grading and providing feedback on students' homework assignments, and holding weekly study sessions (2-hour meetings where students stopped by for help with their assignments or to ask any course-related or math questions in general without any formal registration). Below is the list of courses that I was a TA for:
 - MTH 311/611: *Introductory Real Analysis*. Fall 25.
 - MTH 383/683: *The Real Line*. Summer 25.
 - MTH 111: *Calculus with Analytic Geometry I*. Fall 24.
